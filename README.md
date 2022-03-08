@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdlampley
-- 👀 I’m from in Columbus, Ohio
+- 👀 I’m from Columbus, Ohio
 - 🌱 I’m currently learning front end development
 - 📫 How to reach me on twitter @CherieLampley
 
