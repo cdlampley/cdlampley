@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdlampley
+- 👋 Hi, I’m Cherie (rhymes with Marie)
 - 👀 I’m from Columbus, Ohio
 - 🌱 I’m currently learning front end development
 - 📫 How to reach me on twitter @CherieLampley
