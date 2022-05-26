@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cherie (rhymes with Marie)
 - 👀 I’m from Columbus, Ohio
-- 🌱 I’m a software engineer
+- 🌱 I’m a front end developer
 - 📫 How to reach me on twitter @CherieLampley
 
 <!---
